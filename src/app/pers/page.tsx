@@ -41,7 +41,7 @@ export default function Pers() {
               </div>
               <div className="h-[45px] flex relative items-center">
                 <button className="block text-[#454A50] text-lg leading-[22px] font-semibold cursor-pointer !text-white after:content-[''] after:bg-white after:h-0.5 after:w-[51px] after:absolute after:bottom-0 after:left-[18px]">
-                  Парсинг
+                   <a href="/parsing">Парсинг</a>
                 </button>
               </div>
             </div>
